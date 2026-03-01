@@ -2,7 +2,6 @@
 layout: page
 title: About Us
 ---
-
 We are a team based in the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg).
 
 You can reach us at the email `seer[at]comp.nus.edu.sg`
@@ -19,41 +18,38 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Deliverables and deadlines
 * Responsibilities: Ensure project deliverables are done on time and in the right format.
 
-### Jane Doe
+### Trevor Tan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/teleifo.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/teleifo)]
 
 * Role: Team Lead
-* Responsibilities: UI
+* Responsibilities: Overall project coordination
 
 ### Johnny Doe
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/gwhrg.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/gwhrg)]
 
-* Role: Developer
-* Responsibilities: Data
+* Role: Code Quality
+* Responsibilities: Looks after code quality, ensures adherence to coding standards, etc.
 
-### Jean Doe
+### Veon Lok
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/veonlok.png" width="200px">
+[[github](http://github.com/veonlok)]`
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+Role: Developer, Scheduling and Tracking
 
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: In charge of defining, assigning, and tracking project tasks.
 
-### James Doe
+### Donavan Er
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/illumininja.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/illumininja)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: Testing
